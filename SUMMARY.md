@@ -8,3 +8,4 @@
 * [generator functions-3](generator-functions-3.md)
 * [Monkey patching-1](monkey-patching-1.md)
 * [Monkey patching-2](monkey-patching-2.md)
+* [Monkey patching-3](monkey-patching-3.md)
