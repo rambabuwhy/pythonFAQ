@@ -1,4 +1,5 @@
 # Table of contents
 
 * [Cover](README.md)
-* [L\[::-1\]](l-1.md)
+* [move backwards](move-backwards.md)
+* [exception handling](exception-handling.md)
