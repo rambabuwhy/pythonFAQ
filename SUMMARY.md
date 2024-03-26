@@ -6,3 +6,4 @@
 * [Generator functions-1](generator-functions-1.md)
 * [Generator functions-2](generator-functions-2.md)
 * [generator functions-3](generator-functions-3.md)
+* [Monkey patching](monkey-patching.md)
